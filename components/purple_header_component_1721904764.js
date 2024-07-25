@@ -29,7 +29,8 @@ Vue.component("purple_header_component_1721904764", {
                     <li class="ml-6"><a id="sign-up-link" class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none" href="signup.html" :class="[signUpButtonText, signUpButtonHover, signUpButtonGradient]"><span class="relative inline-flex items-center">Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1" :class="signUpButtonArrow">-&gt;</span></span></a></li>
                 </ul>
 
-                <button class="btn-sm text-white bg-purple-600 hover:bg-purple-700 rounded-lg px-4 py-2 mr-4">Hello World</button>
+                <button class="btn-sm text-white bg-purple-600 hover:bg-purple-700 rounded-lg px-4 py-2 mr-4 shadow-md transition duration-300 ease-in-out transform hover:scale-105">Hello World</button>
+
 
                 <div id="mobile-menu" class="md:hidden flex items-center ml-4" x-data="{ expanded: false }">
     
