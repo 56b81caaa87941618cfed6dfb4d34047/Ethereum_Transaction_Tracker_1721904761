@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Hello World' button to have a specific function or action associated with it when clicked?\", \"option1\": \"Yes, I have a specific action in mind.\", \"option2\": \"No, I just want it to display 'Hello World'.\"}, {\"question 2\": \"What style and theme preferences do you have for this button in terms of color, size, and font?\", \"option1\": \"I prefer a modern and sleek design.\", \"option2\": \"I want it to match the existing app's design theme.\"}], \"input_token_count\": 261, \"output_token_count\": 127, \"time_taken\": \"0:00:06.720250\"}",
         "timestamp": "25072024105405",
         "message_id": "guest25072024105357"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add interactive tooltips to the 'Hello World' button to explain its function\", \"checked\": true}, {\"feature\": \"Implement a customizable notification alert when the 'Hello World' button is clicked\", \"checked\": false}, {\"feature\": \"Incorporate a settings panel for the 'Hello World' button to adjust text, color, and functionality\", \"checked\": true}, {\"feature\": \"Embed a share feature on the 'Hello World' button for users to share transactions on social media\", \"checked\": false}, {\"feature\": \"Design a hover effect for the 'Hello World' button for better user interaction\", \"checked\": true}, {\"feature\": \"Add a history tab to track all 'Hello World' button presses\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 157, \"time_taken\": \"0:00:11.315306\"}",
+        "timestamp": "25072024105410",
+        "message_id": "guest25072024105357"
     }
 ]
