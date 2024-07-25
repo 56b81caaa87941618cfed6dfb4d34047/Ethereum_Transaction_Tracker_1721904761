@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Hello World' button to have a specific function or action associated with it when clicked?\", \"option1\": \"Yes, I have a specific action in mind.\", \"option2\": \"No, I just want it to display 'Hello World'.\"}, {\"question 2\": \"What style and theme preferences do you have for this button in terms of color, size, and font?\", \"option1\": \"I prefer a modern and sleek design.\", \"option2\": \"I want it to match the existing app's design theme.\"}], \"input_token_count\": 261, \"output_token_count\": 127, \"time_taken\": \"0:00:06.720250\"}",
+        "message_id": "guest25072024105357",
+        "timestamp": "25072024105405",
+        "component_file_name": "purple_header_component_1721904764",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, adding a button labeled \"hello world\".",
         "message_id": "guest25072024105357",
